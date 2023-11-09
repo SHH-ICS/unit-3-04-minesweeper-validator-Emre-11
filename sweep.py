@@ -1,4 +1,4 @@
-# Validate a minesweeper interior block
+3x# Validate a minesweeper interior block
 # block_data is a two dimensional array containing the data from a 3 x 3 grid of squares
 # We are assuming that we are only checking interior blocks for now
 # Return value should be a string that says either Valid or Invalid (with some hints as to why it's invlaid)
